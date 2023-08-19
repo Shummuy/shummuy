@@ -11,14 +11,7 @@
 </div>
   
 ##
-  
-  #### <p align="right"> ✨  Knowledge </p>
-  <div>
-  <img align="right" al="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50px height=50px />
-    <img align="right" al="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50px height=50px />
-    <img align="right" al="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width=50px height=50px />
-  </div><br><br>
-  
+
   ##
    
   #### <p align="right"> 🗨️ Connect with me: </p>
